@@ -213,9 +213,9 @@ sidebar:
 > 
 > 온건(사대당) 과 급진(개화당)으로 개화파가 분화되었다.
 
-![](../images/2023-08-04-koreahistory619p/2023-08-04-20-34-28-image.png)
+![]({{site.url}}/images/2023-08-04-koreahistory619p/2023-08-04-20-34-28-image.png)
 
-![](../images/2023-08-04-koreahistory619p/2023-08-04-20-37-54-image.png)
+![]({{site.url}}/images/2023-08-04-koreahistory619p/2023-08-04-20-37-54-image.png)
 
 -----
 
@@ -403,7 +403,7 @@ sidebar:
 > 
 > 그러나 이 당시 중립화론은 받아들여지지 않았다.
 
-![](../images/2023-08-04-koreahistory619p/2023-08-04-22-11-10-image.png)
+![]({{site.url}}/images/2023-08-04-koreahistory619p/2023-08-04-22-11-10-image.png)
 
 ----- 
 
@@ -547,7 +547,7 @@ sidebar:
 
 #### (5) 양반 민보군 조직 - 지지 기반 미흡
 
-![](../images/2023-08-04-koreahistory619p/2023-08-04-23-02-18-image.png)
+![]({{site.url}}/images/2023-08-04-koreahistory619p/2023-08-04-23-02-18-image.png)
 
 -----
 
@@ -665,7 +665,7 @@ sidebar:
 
 ### (10) [ 관세사 / 징세서 설치 ] [ 육의전 / 공납제 폐지 ]
 
-![](../images/2023-08-04-koreahistory619p/2023-08-05-10-28-29-image.png)
+![]({{site.url}}/images/2023-08-04-koreahistory619p/2023-08-05-10-28-29-image.png)
 
 
 
@@ -861,7 +861,7 @@ sidebar:
 
 ### (7) 독립 협회 활동의 의의와 한계 = 러시아 집중. 미.영.일 우호적 / 의병 운동과 같은 무장 활동에 비판적
 
-![](../images/2023-08-04-koreahistory619p/2023-08-05-12-05-28-image.png)
+![]({{site.url}}/images/2023-08-04-koreahistory619p/2023-08-05-12-05-28-image.png)
 
 ----
 
@@ -953,7 +953,7 @@ sidebar:
 
 #### ④ 국외 중립 선언 ( 1904. 1. ) = 러 · 일 전쟁 발발 ( 1904. 2. ) 직전 선언
 
-![](../images/2023-08-04-koreahistory619p/2023-08-05-13-12-13-image.png)
+![]({{site.url}}/images/2023-08-04-koreahistory619p/2023-08-05-13-12-13-image.png)
 
 ----
 
@@ -1035,7 +1035,7 @@ sidebar:
 
 #### ⑤ 일제의 남한 대토벌 작전 ( 1909. 9. ) = 2개월 동안 진행
 
-![](../images/2023-08-04-koreahistory619p/2023-08-05-14-52-45-image.png)
+![]({{site.url}}/images/2023-08-04-koreahistory619p/2023-08-05-14-52-45-image.png)
 
 
 
@@ -1111,7 +1111,7 @@ sidebar:
 
 > 1. 각소에 권유원을 파견하여 권유문을 전파하며 인민의 정신을 각성케 할 것...
 
-![](../images/2023-08-04-koreahistory619p/2023-08-05-15-46-53-image.png)
+![]({{site.url}}/images/2023-08-04-koreahistory619p/2023-08-05-15-46-53-image.png)
 
 ---- 
 
@@ -1137,7 +1137,7 @@ sidebar:
 
 #### ② 간도 협약 ( 1909. 청·일 ) = 남만주( 안동 - 봉천 ) 철도 부설권.                                                         푸순 광산 채굴권을 획득하는 조건으로                                                         간도를 청의 영토로 인정.
 
-![](../images/2023-08-04-koreahistory619p/2023-08-05-16-16-45-image.png)
+![]({{site.url}}/images/2023-08-04-koreahistory619p/2023-08-05-16-16-45-image.png)
 
 
 
@@ -1205,7 +1205,7 @@ sidebar:
 
 ### (2) 조선 상인의 대응 = 시전 상인들의 동맹 철시 단행
 
-![](../images/2023-08-04-koreahistory619p/2023-08-05-16-59-43-image.png)
+![]({{site.url}}/images/2023-08-04-koreahistory619p/2023-08-05-16-59-43-image.png)
 
 
 
@@ -1387,6 +1387,6 @@ sidebar:
 
 ### (7) 서양 문물의 도입과 생활의 변화 = 명동성당(1898. 고딕).                                                 덕수궁 석조전(1910. 르네상스).
 
-![](../images/2023-08-04-koreahistory619p/2023-08-05-20-16-10-image.png)
+![]({{site.url}}/images/2023-08-04-koreahistory619p/2023-08-05-20-16-10-image.png)
 
-![](../images/2023-08-04-koreahistory619p/2023-08-05-20-18-18-image.png)
+![]({{site.url}}/images/2023-08-04-koreahistory619p/2023-08-05-20-18-18-image.png)
